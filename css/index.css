@@ -58,5 +58,10 @@ padding-left: 10px;
    
 }
 .arrow-navi h5{
+    font-weight: 300;
     font-size: 2rem;
+}
+/* section3 */
+#section3{
+background-color: rgb(43, 49, 72);;
 }
