@@ -29,3 +29,16 @@
 #header-bottom h6{
     font-weight: 100;
 }
+/* section2 */
+.banner{
+    padding-top: 70px;
+}
+.banner-img{
+    width: 100%;
+    height: 100px;
+    
+}
+.card-head{
+    font-weight: bold;
+}
+
