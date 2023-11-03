@@ -59,9 +59,25 @@ padding-left: 10px;
 }
 .arrow-navi h5{
     font-weight: 300;
-    font-size: 2rem;
+    font-size: 30px;
+    cursor: pointer;
+   
+}
+.img-card{
+    border: none;
 }
 /* section3 */
-#section3{
-background-color: rgb(43, 49, 72);;
+.section3{
+background-color: rgb(43, 49, 72);
+
+
+}
+.premiers-h5 h5{
+    font-size: 2rem;
+}
+.premiers-h5 h6{
+    font-size: 15px;
+}
+.se3-card h5{
+font-weight: 200;
 }
