@@ -29,6 +29,9 @@
 #header-bottom h6{
     font-weight: 100;
 }
+.carousel-inner img{
+    height: 30vh;
+}
 /* section2 */
 .banner{
     padding-top: 70px;
