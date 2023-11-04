@@ -105,3 +105,25 @@ font-size: 15px;
     font-weight: 100;
     color: grey;
 }
+/* footer */
+.top{
+    background-color: rgb(49, 48, 53);
+}
+.top h6{
+    font-weight: 200;
+}
+.second{
+    background-color: rgb(64, 64, 67);
+}
+.second-svg{
+    color: white;
+}
+.second h6{
+    color: white;
+}
+.third{
+background-color: rgb(49, 48, 53);;
+}
+.third h6{
+    color: rgb(161, 155, 155);
+}
