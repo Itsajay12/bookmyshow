@@ -96,3 +96,12 @@ left: 150px;
 z-index: 2;
 cursor: pointer;
 }
+/* section9 */
+.se9-card h5{
+color: rgb(248, 68, 100);
+font-size: 15px;
+}
+.se9-card h6{
+    font-weight: 100;
+    color: grey;
+}
