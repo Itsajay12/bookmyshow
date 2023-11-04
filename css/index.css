@@ -88,3 +88,11 @@ font-weight: 200;
 .se4-h5{
     font-size: 1rem;
 }
+/* section7 */
+.se7-badge{
+position:relative;
+top: 20px;
+left: 150px;
+z-index: 2;
+cursor: pointer;
+}
