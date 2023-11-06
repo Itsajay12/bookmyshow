@@ -122,12 +122,51 @@ font-size: 15px;
     color: white;
 }
 .third{
-background-color: rgb(49, 48, 53);;
+background-color: rgb(49, 48, 53);
 }
 .third h5{
-    font-size: 20px;
+    font-size: 15px;
+    color: white;
 }
 .third h6{
     color: rgb(161, 155, 155);
-    font-size: 13px;
+    font-size: 10px;
+}
+.third span{
+    color: rgba(196, 206, 216, 0.753);
+    font-size: 12px;
+}
+
+.third h6:hover{
+    color: white;
+    cursor: pointer;
+}
+.ft-hr{
+    color: aliceblue;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.ft-img1{
+    position:relative;
+    left: 55rem;
+    bottom: 30px;
+    background-color:rgb(49, 48, 53) ;
+}
+
+
+.logos i{
+   
+    border-radius: 50%;
+    color:black;
+    font-size: 20px;
+   
+} 
+.logos i:hover{
+    color: white;
+    cursor: pointer;
+    transition: 2s;
+}
+.copyright{
+    color: rgb(93, 93, 95);
+    font-size: 10px;
 }
